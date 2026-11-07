@@ -1,0 +1,7 @@
+output/
+schema_audit_output/
+__pycache__/
+.venv/
+*.pyc
+*.log
+journal*.jsonl
